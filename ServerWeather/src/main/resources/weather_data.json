@@ -1,0 +1,29 @@
+{"locations": [
+    {
+        "latitude": 25,
+        "name": "Floresti",
+        "weather": [
+            {
+                "date": "2025-01-18",
+                "condition": "Insorit",
+                "temperature": -4
+            },
+            {
+                "date": "2025-01-19",
+                "condition": "Ninsoare",
+                "temperature": -6
+            },
+            {
+                "date": "2025-01-20",
+                "condition": "Ninsoare",
+                "temperature": -5
+            },
+            {
+                "date": "2025-01-21",
+                "condition": "Ninsoare",
+                "temperature": -4
+            }
+        ],
+        "longitude": 26
+    }
+]}
